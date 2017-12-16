@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23-Nov-2017, 12:37:56
+    Author     : Gufran
+*/
+html.gr__localhost {
+    overflow-x: hidden;
+}
+header {
+    width: 800px;
+    background: #ccc;
+    padding: 40px;
+    text-align: center;
+    margin: 0 auto;
+}
+div#content {
+    background: #d8bc96;
+    width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+}
+footer {
+    background: #75d6b5;
+    padding: 10px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+div#warper_dv {
+    position: relative;
+}
+div#latest{
+    float: right;
+    height: 200px;
+    width: 100px;
+    padding: 5px;
+    background: #bfbbb5;
+}
